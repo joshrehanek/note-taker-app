@@ -39,7 +39,7 @@ module.exports = function (app) {
     app.delete('/api/notes/:id', (req, res) => {
         const id = req.params.id;
         console.log(`deleting note ${id}`);
-        notesDb.splice(id, 1);
+        parsedNote.splice(id, 1)
         addNoteToDb(notesDb);
         res.json(notesDb);
         res.end();
