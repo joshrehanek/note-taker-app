@@ -5,7 +5,7 @@ This application uses an Express.js back end and will save and retrieve note dat
 ## Table of contents
 - [General Info](#general-info)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Deployed Link](#deployed-link)
 - [Link to GitHub Repo](#link-to-github-repo)
 - [Demo Pic 1](#demo-pic-1)
 - [Demo Pic 2](#demo-pic-2)
@@ -42,8 +42,7 @@ npm i
 Nodemon use is suggested
 
 ```
-## Usage
-App depolyed at:
+## Deployed Link
 - https://calm-garden-89582.herokuapp.com/
 
 ## Link to GitHub Repo
